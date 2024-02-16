@@ -1,1 +1,1 @@
-Neste repositório está o notebook do Projeto Pokémon denominado de "Entendimnento dos Dados" e nele estão detalhadas os objetivos do projeto em forma de perguntas, bem como a resolução deles usando a linguagem Python.
+Neste repositório está o notebook do Projeto Pokémon denominado de "Entendimnento dos Dados" e nele estão detalhadas os objetivos do projeto em forma de perguntas, bem como a resolução delas usando a linguagem Python.
